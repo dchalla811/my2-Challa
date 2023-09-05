@@ -30,6 +30,23 @@ ___
  ___
  ## Pithy Quotes
 
-> Science is not just a subject, it's a way of thinking-  ___CV Raman___<br>
+> Science is not just a subject, it's a way of thinking-  ___CV Raman___
+
 > There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. - ___Albert Einstein___
+___
+
+## Code Fencing 
+> JavaScript Regex for Code Fencing in Markdown
+
+<https://stackoverflow.com/questions/8333010/javascript-regex-for-code-fencing-in-markdown>
+
+```
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('myfont.woff2') format('woff2'),
+        url('myfont.woff') format('woff');
+}
+```
+<https://css-tricks.com/snippets/css/using-font-face-in-css/>
+
 
