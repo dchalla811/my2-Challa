@@ -21,9 +21,9 @@ click [here](MyStats.md) to view MyStats
 ___
  ## Sports
 
- | ### NAME         | ### REASON           | ### HOURS |
- | ---------------- | -------------------- | --------: |
- | #### TableTennis | #### Aerobic fitness | #### 2    |
- | #### Badminton   | #### strengthens     | #### 4    |
- | #### Tennis      | #### Fitness         | #### 3    |
+ | NAME        | REASON          | HOURS |
+ | ------------| --------------- | ----: |
+ | TableTennis | Aerobic fitness | 2     |
+ | Badminton   | Strengthens     | 4     |
+ | Tennis      | Fitness         | 3     |
  
