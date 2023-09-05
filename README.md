@@ -17,3 +17,4 @@ ___
     * Ice Cream
     * Sweet
 
+click [here](MyStats.md) to view MyStats 
