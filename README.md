@@ -26,6 +26,7 @@ ___
  | TableTennis | Aerobic fitness | 2hrs  |
  | Badminton   | Strengthens     | 4hrs  |
  | Tennis      | Fitness         | 3hrs  |
+ | Chess       | Improves memory | 1hr   |
 
  ___
  ## Pithy Quotes
