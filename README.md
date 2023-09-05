@@ -30,6 +30,6 @@ ___
  ___
  ## Pithy Quotes
 
-> Science is not just a subject, it's a way of thinking-  ___CV Raman___
+> Science is not just a subject, it's a way of thinking-  ___CV Raman___<br>
 > There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. - ___Albert Einstein___
 
