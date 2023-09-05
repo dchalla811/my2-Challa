@@ -23,7 +23,13 @@ ___
 
  | NAME        | REASON          | HOURS |
  | ------------| --------------- | ----: |
- | TableTennis | Aerobic fitness | 2     |
- | Badminton   | Strengthens     | 4     |
- | Tennis      | Fitness         | 3     |
- 
+ | TableTennis | Aerobic fitness | 2hrs  |
+ | Badminton   | Strengthens     | 4hrs  |
+ | Tennis      | Fitness         | 3hrs  |
+
+ ___
+ ## Pithy Quotes
+
+> Science is not just a subject, it's a way of thinking-  ___CV Raman___
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. - ___Albert Einstein___
+
